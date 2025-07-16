@@ -4,6 +4,10 @@ Gerador de QR Code simples e funcional desenvolvido com HTML, CSS e JavaScript. 
 <div align="center">
   <img width="1431" height="857" alt="Image" src="https://github.com/user-attachments/assets/f9149b34-ef6f-445b-9f08-9cc9b34f005b" />
 </div>
+
+## 💻 Deploy
+https://carlosavds.github.io/qrcode-generator/
+
 ## 🚀 Funcionalidades
 
 - Entrada personalizada de texto ou link
@@ -26,9 +30,6 @@ Este projeto foi criado com o intuito de praticar:
 - Uso de bibliotecas externas
 - Estilização de formulários
 - Responsividade
-
-## 💻 Deploy
-https://carlosavds.github.io/qrcode-generator/
 
 ## 🧪 Como rodar localmente
 
