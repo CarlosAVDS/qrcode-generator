@@ -66,4 +66,4 @@ Sinta-se à vontade para contribuir com sugestões, melhorias ou novas funcional
 📝 Licença
 Este projeto está sob a licença MIT.
 
-Desenvolvido com 💡 por Carlos A.
+Desenvolvido com 💡 por Carlos A no curso HORA DE CODAR.
