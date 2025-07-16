@@ -1,9 +1,9 @@
 # 📱 QR Code Generator
 
 Gerador de QR Code simples e funcional desenvolvido com HTML, CSS e JavaScript. Insira qualquer texto ou URL e obtenha um QR Code em tempo real para compartilhar rapidamente!
-
-![qr-code-preview](https://user-images.githubusercontent.com/placeholder/qrcode-preview.png) <!-- Substitua com um print do app -->
-
+<div align="center">
+  <img width="1431" height="857" alt="Image" src="https://github.com/user-attachments/assets/f9149b34-ef6f-445b-9f08-9cc9b34f005b" />
+</div>
 ## 🚀 Funcionalidades
 
 - Entrada personalizada de texto ou link
